@@ -1,0 +1,8 @@
+{
+  "name": "RUANGTREN",
+  "description": "Portal Berita Digital & CMS Profesional — Berita Terkini, Informasi Terpercaya",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
